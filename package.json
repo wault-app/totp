@@ -1,5 +1,5 @@
 {
-  "name": "totp",
+  "name": "@wault/totp",
   "version": "1.0.0",
   "description": "TOTP library used to create One-Time-Passwords (aka 2FA codes)",
   "main": "index.js",
