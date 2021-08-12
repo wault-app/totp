@@ -1,0 +1,26 @@
+{
+  "name": "totp",
+  "version": "1.0.0",
+  "description": "TOTP library used to create One-Time-Passwords (aka 2FA codes)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wault-app/totp.git"
+  },
+  "keywords": [
+    "totp",
+    "typescript"
+  ],
+  "author": "Gál Péter (pepyta)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wault-app/totp/issues"
+  },
+  "homepage": "https://github.com/wault-app/totp#readme",
+  "dependencies": {
+    "jssha": "^3.2.0"
+  }
+}
